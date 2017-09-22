@@ -38,7 +38,4 @@ const findUser = (req, res) => {
 module.exports = {
   createUser,
   findUser,
-  createPost,
-  listPosts,
-  findPosts,
 };
